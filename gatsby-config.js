@@ -6,12 +6,12 @@ module.exports = {
     url: 'https://lumen.netlify.com',
     title: 'Blog by Eleanor Mollett',
     subtitle:
-      'Delivery manager currently working for NICE in Manchester, previously DWP, HMRC and the Home Office',
+      'Delivery manager currently working for NICE in Manchester. Previously DWP, HMRC and the Home Office',
     copyright: '© All rights reserved Eleanor Mollett 2019.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Blog',
         path: '/',
       },
       {
