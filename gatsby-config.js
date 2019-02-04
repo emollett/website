@@ -18,6 +18,10 @@ module.exports = {
         label: 'Projects',
         path: '/projects/',
       },
+      {
+        label: 'Resources',
+        path: '/resources/',
+      },
     ],
     author: {
       name: 'Eleanor Mollett',
