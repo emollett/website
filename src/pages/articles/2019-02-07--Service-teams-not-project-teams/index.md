@@ -4,7 +4,7 @@ date: "2019-02-07"
 layout: post
 draft: false
 path: "/posts/service-teams-not-project-teams/"
-category: "Blogging"
+category: "Delivery"
 tags:
   - "Delivery"
   - "Product Management"
