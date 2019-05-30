@@ -4,10 +4,12 @@ layout: page
 path: "/projects"
 ---
 
-##Coffee Tracker
-A site for tracking the coffee purchasing of my team. Coffee is input with info about who bought it and when, when it was opened, and if people particularly liked it. In future I might do something with the date opened data, but for now it just tracks who bought the packs. This was my first react project, and first project trying to deploy something myself.
+##[Coffee Tracker](http://coffee-tracker.eleanormollett.com/)
+A site for tracking the coffee purchasing of my team. Coffee is input with info about who bought it and when, when it was opened, and if people particularly liked it. The site ranks who on the team has bought the most coffee, and tracks how many packs we open each month. This was my first react project, and first project trying to deploy something myself.
 
 [Github project](https://github.com/emollett/coffee-tracker)
+
+[Coffee Tracker](http://coffee-tracker.eleanormollett.com/)
 
 ##[Meeting Calculator](https://emollett.github.io/meeting-value/index)
 This calculates the cost of a meeting by multiplying the average day rate of the attendees by the number of them present.
