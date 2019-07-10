@@ -3,7 +3,8 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
+    url: 'https://eleanormollett.com',
+    pathPrefix: '/',
     title: 'Blog by Eleanor Mollett',
     subtitle:
       'Delivery manager currently working for NICE in Manchester. Previously DWP, HMRC and the Home Office',
