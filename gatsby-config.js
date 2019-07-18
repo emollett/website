@@ -3,7 +3,6 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://eleanormollett.com',
     siteUrl: 'https://eleanormollett.com',
     pathPrefix: '/',
     title: 'Blog by Eleanor Mollett',

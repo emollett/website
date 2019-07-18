@@ -25,6 +25,3 @@ We have also used kanban to try to break down some of the silos that form betwee
 Recently, using kanban has supported our team in working on two separate streams of work (both related to the same project). We are able to easily visualise the dependencies between the two streams of work, and prioritise work unevenly across the two projects if needed, whilst keeping track of the teams capacity and ensuring total work in progress continues to be limited.
 
 The flexibility of kanban has suited our team and the service we are providing during delivery. It has supported our sometimes rapidly changing priorities, improved team communication and collaboration, and provided much better visibility of our work and where in our workflow we can target for improvement.
-
-
-![TEST](./networkdetail.jpg "TEST")
