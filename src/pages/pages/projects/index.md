@@ -11,7 +11,7 @@ A site for tracking the coffee purchasing of my team. Coffee is input with info 
 
 [Coffee Tracker](http://coffee-tracker.eleanormollett.com/)
 
-##[Meeting Calculator](https://emollett.github.io/meeting-value/index)
+##[Meeting Calculator](https://emollett.github.io/meeting-value/src/index)
 This calculates the cost of a meeting by multiplying the average day rate of the attendees by the number of them present.
 
 The timer can be paused and reset, and if you need to hide the day rate, check the button after entering the information. Checking the box can be done before or after the timer starts, the day rate information can be seen again by clicking the check-box again.
@@ -20,7 +20,7 @@ I created this after sitting in several very large very long meetings wondering 
 
 [Github project](https://github.com/emollett/meeting-value)
 
-[Meeting Calculator](https://emollett.github.io/meeting-value/index)
+[Meeting Calculator](https://emollett.github.io/meeting-value/src/index)
 
 ##[Calendar Creator](https://emollett.github.io/calendar/calendar)
 
