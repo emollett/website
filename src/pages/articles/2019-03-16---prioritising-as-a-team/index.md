@@ -9,6 +9,7 @@ tags:
   - "Delivery"
   - "Product Management"
   - "Governance"
+  - "Agile"
 description: "Your whole team should be involved in prioritisation of their work. Providing their knowledge as input directly, and empowering them to decide on their own work produces better software and better teams"
 ---
 

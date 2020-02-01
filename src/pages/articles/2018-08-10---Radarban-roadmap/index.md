@@ -9,6 +9,8 @@ tags:
   - "Product Management"
   - "Delivery"
   - "Agile"
+  - "Kanban"
+  - "Governance"
 
 description: "The roadmaps I’ve seen before have tended to be linear, and have dates. This is the entire point in a roadmap for some people, but for me it is too restrictive if I am meant to be able to respond to changes and new priorities. Once you have a linear roadmap, people expect it to be followed and for things to turn up in exactly that order. This is even worse if there are dates on it, because they expect those things at exactly those times. (Again, this is probably why some people like them, but it doesn’t work if you are responding to what you are learning)."
 ---

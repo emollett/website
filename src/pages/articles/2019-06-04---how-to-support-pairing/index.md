@@ -9,6 +9,7 @@ tags:
   - "Delivery"
   - "Product Management"
   - "Development"
+  - "Agile"
 description: "This post is about how delivery managers (and product managers) can encourage and supporting pairing. It has come up a few times in discussions I’ve had about good practice on delivery teams, and there still seems to be reluctance to champion it, or even embrace it. Sometimes this comes from the delivery manager themselves, but more often from a general feeling that their organisation won't accept it. I’ve had on one occasion a delivery manager tell me that pairing is something that can’t be done in government. With a better understanding of how to support pairing, delivery managers might feel more confident in advocating for their team."
 ---
 

@@ -8,6 +8,7 @@ category: "Delivery"
 tags:
   - "Delivery"
   - "Product Management"
+  - "Governance"
 description: "The benefits for me of having a service team rather than project teams are team stability, the service stability, and the long-term strategy it enables at the team level. These are all enabled by having service teams that support a coherent set of services for their full life. Funding teams is a necessity to be able to provide this model."
 ---
 
