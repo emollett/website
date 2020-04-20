@@ -7,6 +7,8 @@ path: "/posts/better-standups/"
 category: "Delivery"
 tags:
   - "Delivery"
+  - "Agile"
+  - "Kanban"
 
 description: "How to improve your standups - a write up from a lightning talk I gave to our engineering community of practice"
 ---

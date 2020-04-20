@@ -7,6 +7,8 @@ path: "/posts/team-metrics/"
 category: "Delivery"
 tags:
   - "Delivery"
+  - "Agile"
+  - "Governance"
 
 description: "I’ve been thinking recently about team metrics, continuous improvement experiments, and consent. - written up from a twitter thread"
 ---

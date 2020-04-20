@@ -8,6 +8,7 @@ category: "Product Management"
 tags:
   - "Delivery"
   - "Product Management"
+  - "Governance"
 
 description: "Having an extended pause to a project sucks, but we have found some silver linings"
 ---

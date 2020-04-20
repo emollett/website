@@ -8,6 +8,8 @@ category: "Product Management"
 tags:
   - "Delivery"
   - "Product Management"
+  - "Governance"
+  - "Agile"
 description: "I've been thinking more about roadmaps recently and how they differ from delivery plans. - written up from a twitter thread"
 ---
 *written up from a twitter thread found [here](https://twitter.com/EleanorMollett/status/1143818859134234624)*
