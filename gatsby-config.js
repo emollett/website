@@ -6,9 +6,8 @@ module.exports = {
     siteUrl: 'https://eleanormollett.com',
     pathPrefix: '/',
     title: 'Blog by Eleanor Mollett',
-    subtitle:
-      'Delivery manager currently working for NICE in Manchester. Previously DWP, HMRC and the Home Office',
-    copyright: '© All rights reserved Eleanor Mollett 2019.',
+    subtitle: 'Software developer currently working for NICE in Manchester, previously developer and/or delivery manager on agile teams across several government departments.',
+    copyright: '© All rights reserved Eleanor Mollett 2020.',
     disqusShortname: '',
     menu: [
       {
